@@ -20,12 +20,6 @@ This is a simple voice assistant built with Python.
 * pywhatkit
 * wikipedia
 
-## Installation
-
-1.  Clone the repository: `git clone your_repository_url`
-2.  Install the required libraries: `pip install -r requirements.txt`
-3.  Run the script: `python your_script_name.py`
-
 ## Usage
 
 * Speak your commands clearly.
